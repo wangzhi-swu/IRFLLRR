@@ -10,4 +10,4 @@ For algorithm interpretation, please read our paper, in which more details are d
 
 If you have any questions about this implementation, please do not hesitate to contact us.
 
-Zhuo Liu, College of Computer and Information Science, Southwest University, Chongqing, P. R. China, e-mail: yvinshan@foxmail.com
+Zhuo Liu, College of Computer and Information Science, Southwest University, Chongqing, P. R. China, e-mail: lz0871@email.swu.edu.cn.
