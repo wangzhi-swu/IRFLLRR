@@ -4,7 +4,7 @@ Matlab Code for Subspace Clustering:
 Reference:
 Zhuo Liu, Dong Hu, Zhi Wang*, Jianping Gou, and Tao Jia. LatLRR for Subspace Clustering via Reweighted Frobenius Norm Minimization. Expert Systems With Applicationsis, vol. 224, Aug. 2023, Art. no. 119977.
 
-This code is written by Zhuo Liu, Southwest Universiy, 2022
+This code is written by Zhuo Liu under the guidance of Dr. Zhi Wang, Southwest Universiy, 2022
 
 For algorithm interpretation, please read our paper, in which more details are demonstrated.
 
